@@ -14,8 +14,8 @@ namespace EmailService.Api.Controllers
     [Route("[controller]")]
     public class EmailController : ControllerBase
     {
-        public string FromEmail = "ahmet_alkoc@hotmail.com";
-        public string FromEmailPassword = "Da224356151+";
+        public string FromEmail = "BekirsEmailAddress@hotmail.com";
+        public string FromEmailPassword = "Password";
 
         private readonly DatabaseContext _context;
         private readonly ILogger<EmailController> _logger;

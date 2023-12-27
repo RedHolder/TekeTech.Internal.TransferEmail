@@ -10,7 +10,7 @@ Detailed Documentaion will be written.
 
 # What is next?
 
-I'm currently working on the project to shift it clean architecture.
+I'm currently working on the project to be done with clean architecture.
 
 After architecture steps, a UI is going to be developed for the project for public use!
 
